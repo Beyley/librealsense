@@ -3,6 +3,7 @@
 #pragma once
 
 #include "stream-profile-interface.h"
+#include <stdint.h>
 
 namespace librealsense
 {

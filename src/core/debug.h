@@ -4,6 +4,7 @@
 
 #include "extension.h"
 #include <vector>
+#include <stdint.h>
 
 namespace librealsense
 {

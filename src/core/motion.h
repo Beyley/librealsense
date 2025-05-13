@@ -4,6 +4,7 @@
 
 #include "stream-profile-interface.h"
 #include <src/float3.h>
+#include <stdint.h>
 
 
 namespace librealsense
